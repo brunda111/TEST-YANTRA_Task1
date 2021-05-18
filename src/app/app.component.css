@@ -11,10 +11,7 @@ p {
     height: 80px;
     background-color: skyblue;
   }
-  .rotated {
-    transform: rotate(45deg);
-    background-color: pink;
-  }
+  
  
   
  
